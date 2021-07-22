@@ -2,10 +2,10 @@
 
   
 
-<div  align="center">
+<p  align="center">
 <a  href="https://www.linkedin.com/in/matheus-molina/"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="linkedin"  height="20"  width="20"  /></a>
 <a  href="https://www.instagram.com/imathhmolina/"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="instagram"  height="20"  width="20"  /></a>
-</div>
+</p>
 
   
   
