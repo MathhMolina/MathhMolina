@@ -10,9 +10,9 @@
   
   
 
-I'm Matheus Molina, QA with experience in cucumber, ruby, selenium and httparty. Graduated in Software Development at FATEC.
+Graduated in Software Development at FATEC.
 
-I'm always learning new things and currently improving my javascript skills.
+I'm always learning new things and currently improving my C# skills.
 
   
   
